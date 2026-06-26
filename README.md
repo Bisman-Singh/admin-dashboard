@@ -31,3 +31,5 @@ A comprehensive admin dashboard built with React and Vite.
 npm install
 npm run dev
 ```
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
